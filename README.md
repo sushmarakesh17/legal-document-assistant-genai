@@ -2,9 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Application:** [[https://YOUR-STREAMLIT-APP.streamlit.app](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
-](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
-
+🔗 **Application:** https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/
 ## 📌 Overview
 
 The Legal Document Assistant is a Generative AI application that enables users to upload legal PDF documents and interact with them using natural language. It uses Retrieval-Augmented Generation (RAG) to retrieve relevant document content before generating AI-powered responses.
