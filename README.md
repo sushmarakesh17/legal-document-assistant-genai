@@ -2,8 +2,8 @@
 
 ## 🚀 Live Demo
 
-🔗 **Application:** [https://YOUR-STREAMLIT-APP.streamlit.app](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
-
+🔗 **Application:** [[https://YOUR-STREAMLIT-APP.streamlit.app](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
+](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
 
 ## 📌 Overview
 
