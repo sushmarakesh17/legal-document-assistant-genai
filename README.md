@@ -2,11 +2,8 @@
 
 ## 🚀 Live Demo
 
-🔗 **Application:** https://YOUR-STREAMLIT-APP.streamlit.app
+🔗 **Application:** [https://YOUR-STREAMLIT-APP.streamlit.app](https://readmemd-ucz9fnofmjp3irpgfwwt4p.streamlit.app/)
 
-> Replace the above URL with your deployed Streamlit application link.
-
----
 
 ## 📌 Overview
 
